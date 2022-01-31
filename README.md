@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saikris1124
 - 👀 I’m interested in ... Cyber Security, Web app development
-- 🌱 I’m currently learning ... New technology to implement new wen=bsites
+- 🌱 I’m currently learning ... New technology to implement new websites
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
